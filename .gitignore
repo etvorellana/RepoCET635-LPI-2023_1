@@ -53,6 +53,7 @@ dkms.conf
 
 
 # o
+output/*
 Aula_01_04_12/output/*
 Aula_02_04_17/output/*
 Aula_03_04_19/output/*
@@ -62,8 +63,14 @@ Aula_06_05_22/output/*
 Aula_07_24_05/output/*
 Aula_08_29_05/output/*
 Aula_09_05_06/output/*
+Aula_10_12_06/output/*
+Aula_11_14_06/output/*
+Aula_12_19_06/output/*
+Aula_13_21_06/output/*
+Aula_14_03_07/output/*
 
 Exercicios_Aval-2 
 SegAA
+TerAA
 .DS_Store
 .vscode
